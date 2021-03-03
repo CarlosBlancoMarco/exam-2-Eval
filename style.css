@@ -1,0 +1,60 @@
+body{
+    background-color: skyblue;
+}
+
+
+
+
+header.centro{
+    text-align: center;
+    color: goldenrod;
+   
+    text-decoration: underline;
+}
+div.izq{
+    background-color: red;
+
+    
+
+}
+div.centro{
+    text-align: center;
+    background-color: goldenrod;
+}
+
+div.der{
+    background-color: pink;
+    text-align: right 
+}
+p.azul{
+    color: blue;
+    text-align: center;
+    background-color: white;
+    font-family: 'DotGothic16', sans-serif;
+}
+span.rojo{
+    color: red;
+}
+div.blanco{
+    background-color: white;
+    color: blue;
+}
+div.form{
+    text-align: left;
+    width: 40%;
+    height: auto;
+    background-color: salmon;
+}
+input.formulario{
+    width: 10cm;
+}
+p.col{
+
+    background-color: blue;
+    line-height: 20px;
+    display: inline;
+    color: white;
+}
+
+    
+}
